@@ -1,0 +1,7 @@
+A content mod that focuses on adding to Terraria and improving some of its deficiencies.
+
+Because the additions and changes can significantly alter the game experience, this mod is fully configurable. If you wish to turn off certain features or changes to suit your tastes, you can find the config file once it's been generated in C:\Users[Your Username]\Documents\My Games\Terraria\ModLoader\Mods. 
+
+Currently Adds-
+
+Currently Changes-

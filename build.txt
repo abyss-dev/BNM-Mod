@@ -1,0 +1,8 @@
+author = Boffin, Nealpd, M_Blox
+version = 1.0
+displayName = BNM Mod
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
