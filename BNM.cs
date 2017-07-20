@@ -28,7 +28,7 @@ namespace BNM
 				AutoloadGores = true,
 				AutoloadSounds = true,
 				AutoloadBackgrounds = true
-			};
+			};//O MY RUBBER NEN
 		}
     }
 }
